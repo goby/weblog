@@ -1,6 +1,5 @@
 weblog
 ======
 
-咕~~(╯﹏╰)b
+Why So SeriouS!
 
-传送门: https://github.com/cc98/weblog/issues
